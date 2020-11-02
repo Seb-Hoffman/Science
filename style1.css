@@ -1,0 +1,86 @@
+
+#description{
+
+    margin-top:0px;
+    color:black;
+    margin-left:100px;
+    margin-right:800px;
+    border-radius: 25%;
+    border-radius: 15px;
+    border: 10px solid blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:auto;
+    
+
+}
+#scientist_img{
+
+    border-radius: 25%;
+    border-radius: 15px;
+    border: 10px solid blue;
+    width: 300px
+}
+    #name{
+
+    margin-top:5px;
+    color:blue;
+    text-align:center;
+    font-size:2cm;
+    font-family:fantasy;
+    font-variant: small-caps;
+    }
+
+#atable{
+    border-radius: 25%;
+    border-radius: 15px;
+    border: 10px solid grey;
+    width: auto;
+}
+
+
+    .container{
+        color:black;
+        font-size:large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-variant: small-caps;
+        border-radius: 25%;
+        border-radius: 15px;
+        border: 10px solid grey;
+
+    }
+
+    #buttonstyle{
+
+        align-items: center;
+    }
+
+    .container1{
+        color:black;
+        Padding: 10px;
+        margin-left:10px;
+        font-size:large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-variant: small-caps;
+        border: 3px solid black;
+    }
+
+    #h1
+    {
+        margin-top:5px;
+        color:black;
+        text-align:left;
+        font-size:1cm;
+        font-family:fantasy;
+        font-variant: small-caps; 
+    }
+
+
+    #h2
+    {
+        margin-top:5px;
+        color:black;
+        text-align:left;
+        font-size:.85cm;
+        font-family:fantasy;
+        font-variant: small-caps  ; 
+    }
